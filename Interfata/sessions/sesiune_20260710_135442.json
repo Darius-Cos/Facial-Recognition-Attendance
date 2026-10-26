@@ -1,0 +1,19 @@
+{
+  "timestamp": "20260710_135442",
+  "data": "10.07.2026",
+  "nr_poze": 3,
+  "prezenti": 2,
+  "absenti": 81,
+  "necunoscuti": 0,
+  "total_clase": 83,
+  "persoane_prezente": {
+    "Robert Gates": {
+      "confidence": 0.6811,
+      "time": "13:54:42"
+    },
+    "Tom Cruise": {
+      "confidence": 0.7481,
+      "time": "13:54:42"
+    }
+  }
+}

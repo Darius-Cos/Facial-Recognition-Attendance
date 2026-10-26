@@ -1,0 +1,19 @@
+{
+  "timestamp": "20260710_142039",
+  "data": "10.07.2026",
+  "nr_poze": 5,
+  "prezenti": 2,
+  "absenti": 81,
+  "necunoscuti": 3,
+  "total_clase": 83,
+  "persoane_prezente": {
+    "Robert Gates": {
+      "confidence": 0.6494,
+      "time": "14:20:39"
+    },
+    "Sania Mirza": {
+      "confidence": 0.6273,
+      "time": "14:20:39"
+    }
+  }
+}

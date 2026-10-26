@@ -1,0 +1,19 @@
+{
+  "timestamp": "20260710_102540",
+  "data": "10.07.2026",
+  "nr_poze": 4,
+  "prezenti": 2,
+  "absenti": 81,
+  "necunoscuti": 0,
+  "total_clase": 83,
+  "persoane_prezente": {
+    "Ashton Kutcher": {
+      "confidence": 0.7183,
+      "time": "10:25:40"
+    },
+    "Cameron Diaz": {
+      "confidence": 0.8265,
+      "time": "10:25:40"
+    }
+  }
+}

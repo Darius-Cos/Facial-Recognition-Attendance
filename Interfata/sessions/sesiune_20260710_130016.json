@@ -1,0 +1,15 @@
+{
+  "timestamp": "20260710_130016",
+  "data": "10.07.2026",
+  "nr_poze": 4,
+  "prezenti": 1,
+  "absenti": 82,
+  "necunoscuti": 0,
+  "total_clase": 83,
+  "persoane_prezente": {
+    "Shakira": {
+      "confidence": 0.9653,
+      "time": "13:00:16"
+    }
+  }
+}

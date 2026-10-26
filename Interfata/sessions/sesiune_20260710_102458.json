@@ -1,0 +1,15 @@
+{
+  "timestamp": "20260710_102458",
+  "data": "10.07.2026",
+  "nr_poze": 3,
+  "prezenti": 1,
+  "absenti": 82,
+  "necunoscuti": 1,
+  "total_clase": 83,
+  "persoane_prezente": {
+    "Alec Baldwin": {
+      "confidence": 0.7843,
+      "time": "10:24:58"
+    }
+  }
+}
